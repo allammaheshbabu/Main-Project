@@ -1,0 +1,17 @@
+Hotel review analysis for the prediction of business using deep learning approach
+
+Natural Language Processing, Machine Learning,Deep Learning, Artificial Intelligent, LSTM, GRU
+
+
+Hotel_Review_Analysis
+
+hotel_review_analysis
+
+
+hotel_review_prediction
+
+User_ID
+Reviews
+Browser_Used
+Device_Used
+Prediction
